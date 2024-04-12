@@ -47,4 +47,4 @@ CUDA_VISIBLE_DEVICES=gpu_id python FINDER.py
 CUDA_VISIBLE_DEVICES=-1 python testReal.py
 ```
 
-使用训练好的模型（存储在./models目录下），您可以复现论文中报告的结果。
+使用训练好的模型（存储在`./models`目录下），您可以复现论文中报告的结果。
